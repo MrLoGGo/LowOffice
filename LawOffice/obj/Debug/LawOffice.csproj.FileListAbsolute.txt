@@ -1,0 +1,11 @@
+C:\Users\logo1\source\repos\LawOffice\LawOffice\bin\Debug\LawOffice.exe.config
+C:\Users\logo1\source\repos\LawOffice\LawOffice\bin\Debug\LawOffice.exe
+C:\Users\logo1\source\repos\LawOffice\LawOffice\bin\Debug\LawOffice.pdb
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.csproj.AssemblyReference.cache
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.Form1.resources
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.Properties.Resources.resources
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.csproj.GenerateResource.cache
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.csproj.CoreCompileInputs.cache
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.exe
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.pdb
+C:\Users\logo1\source\repos\LawOffice\LawOffice\obj\Debug\LawOffice.AddClientForm.resources
